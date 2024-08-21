@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.jsjdc {
+  background-color: #607b96be;
+}
+
+.active {
+  border-bottom: 2px solid #fea55f;
+  color: #fff;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.scrollbar::-webkit-scrollbar {
+  background: transparent;
+  border: 1px solid #1e2d3d;
+  height: 0px;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background: #1e2d3d;
+}
+
+.textarea-scrollbar::-webkit-scrollbar {
+  background: transparent;
+  width: 5px;
+  border: 1px solid #1e2d3d;
+}
+
+.textarea-scrollbar::-webkit-scrollbar-thumb {
+  background: #1e2d3d;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
+
+.test {
+  background-color: #ffffff21;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media screen and (max-width: 834px) {
+  .scrollbar::-webkit-scrollbar {
+    width: 0px;
+  }
+}

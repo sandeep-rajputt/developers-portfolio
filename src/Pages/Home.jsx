@@ -106,7 +106,7 @@ const Home = () => {
                   rel="noopener noreferrer"
                   className="text-orange pb-[1px] border-b border-orange no-underline"
                 >
-                  &quot;/developers-portfolio&quot;
+                  &quot;/dev-portfolio&quot;
                 </a>
               </p>
               <button
@@ -153,8 +153,8 @@ const Home = () => {
                     <span className="text-green">h1</span>&gt;
                   </p>
                   <p className="text-sm">
-                    &lt;<span className="text-green">p</span>&gt;Front-end
-                    developer&lt;/<span className="text-green">p</span>&gt;
+                    &lt;<span className="text-green">p</span>&gt;Full Stack Web
+                    Developer&lt;/<span className="text-green">p</span>&gt;
                   </p>
                   <div></div>
                 </div>

@@ -28,7 +28,7 @@ const Footer = () => {
           <Vr />
           <FooterItem
             logo={<GrInstagram size={"18px"} />}
-            link={"https://www.instagram.com/sandeep.rajput74"}
+            link={"https://www.instagram.com/sandeep.rajput85"}
           />
           <Vr />
           <FooterItem

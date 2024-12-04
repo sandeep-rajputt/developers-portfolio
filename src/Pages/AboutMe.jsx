@@ -35,9 +35,9 @@ const contactsData = [
     link: "mailto:contact@sandeeprajput.in",
   },
   {
-    text: "sandeep.rajput74",
+    text: "sandeep.rajput85",
     icon: "insta",
-    link: "https://instagram.com/sandeep.rajput74",
+    link: "https://instagram.com/sandeep.rajput85",
   },
 ];
 

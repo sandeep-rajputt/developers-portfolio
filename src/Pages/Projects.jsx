@@ -24,6 +24,14 @@ const projectsData = [
     discription:
       "Created a personal portfolio website showcasing my projects and skills.",
   },
+  {
+    text: "WhatsApp Message Reminder",
+    icon: "share",
+    img: "/projects/whatsapp-project.jpg",
+    link: "https://github.com/sandeep-rajputt/Message-Reminder",
+    discription:
+      "Set and manage WhatsApp reminders to never miss important messages again.",
+  },
 ];
 
 const Projects = () => {

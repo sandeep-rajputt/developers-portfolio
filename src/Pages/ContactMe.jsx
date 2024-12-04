@@ -20,9 +20,9 @@ const contactsData = [
     link: "mailto:contact@sandeeprajput.in",
   },
   {
-    text: "sandeep.rajput74",
+    text: "sandeep.rajput85",
     icon: "insta",
-    link: "https://instagram.com/sandeep.rajput74",
+    link: "https://instagram.com/sandeep.rajput85",
   },
 ];
 
@@ -40,7 +40,7 @@ const findMeData = [
   {
     text: "Instagram Profile",
     icon: "share",
-    link: "https://www.instagram.com/sandeep.rajput74/",
+    link: "https://www.instagram.com/sandeep.rajput85/",
   },
   {
     text: "twitter Profile",
